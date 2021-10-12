@@ -1,5 +1,5 @@
 # Sample code for using tflite model
-
+Originally created for a lecture at Department of Radiology, Seoul National University Hospital. This is a sample code that uses a custom-built tflite model (which is a binary image classifier) and outputs a prediction value from user-selected image file.
 
 # Getting Started
 
