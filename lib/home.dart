@@ -17,7 +17,6 @@
 import 'dart:io';
 import 'dart:math';
 import 'package:image/image.dart' as img;
-import 'package:collection/collection.dart';
 import 'package:flutter/material.dart';
 import 'package:tflite_flutter/tflite_flutter.dart';
 import 'package:file_picker/file_picker.dart';
